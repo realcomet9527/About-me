@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Gaspare</h1>
-<h3 align="center">A passionate frontend developer from Italy (based in Canada).<br> Here is <a href="https://gaspavar.dev/">MY PERSONAL PORTFOLIO</a>.</h3>
+<h1 align="center">Hi 👋, I'm Georgy</h1>
+<h3 align="center">A passionate frontend developer from Kazakhstan.<br> Here is <a href="https://gaspavar.dev/">MY PERSONAL PORTFOLIO</a>.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gaspavar92&label=Profile%20views&color=0e75b6&style=plastic" alt="gaspavar92" /> </p>
 
