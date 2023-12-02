@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Kazakhstan.<br> Here is <a href="https://gaspavar.dev/">MY PERSONAL PORTFOLIO</a>.</h3>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://t.me/RealComet9527" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gaspare-tortora" height="30" width="40" /></a>
+<a href="https://t.me/RealComet9527" target="blank"><i class="fa fa-telegram" aria-hidden="true"></i></a>
 <a href="https://instagram.com/gaspavar92" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gaspavar92" height="30" width="40" /></a>
 </p>
 
