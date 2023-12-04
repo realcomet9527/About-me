@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Georgy</h1>
 <h3 align="center">A passionate frontend developer from Kazakhstan.<br> Here is <a href="https://realcomet9527.vercel.app/">MY PERSONAL PORTFOLIO</a>.</h3>
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://t.me/RealComet9527" target="blank"><i class="fa fa-telegram" aria-hidden="true"></i></a>
-<a href="https://instagram.com/gaspavar92" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gaspavar92" height="30" width="40" /></a>
+<a href="https://discord.com/users/1169222200419680267"><img  width="60" src="https://user-images.githubusercontent.com/86986628/206200626-9999d426-91e8-4050-9430-93c72c21b633.png"></a>
+<a href="https://t.me/RealComet9527"><img  width="60" src="https://user-images.githubusercontent.com/86986628/206201210-59b207ec-a55a-4a37-aef6-6e3b3bddd05d.png"></a>
+<a href="https://join.skype.com/invite/xPC5bIdT5CbW"><img width="60" src="https://user-images.githubusercontent.com/86986628/206201252-92cf14da-d391-443b-bdb7-9639f24259d9.png"></a>
+<a href="mailto:realcomet27@gmail.com"><img width="60" src="https://user-images.githubusercontent.com/86986628/206201266-c519b0d4-d953-45c0-b9ec-253d639c828a.png"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
