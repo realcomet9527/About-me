@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Georgy</h1>
-<h3 align="center">A passionate frontend developer from Kazakhstan.<br> Here is <a href="https://gaspavar.dev/">MY PERSONAL PORTFOLIO</a>.</h3>
+<h3 align="center">A passionate frontend developer from Kazakhstan.<br> Here is <a href="https://realcomet9527.vercel.app/">MY PERSONAL PORTFOLIO</a>.</h3>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://t.me/RealComet9527" target="blank"><i class="fa fa-telegram" aria-hidden="true"></i></a>
