@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Stanislav</h1>
-<h3 align="center">A passionate frontend developer from Kazakhstan.<br> Here is <a href="https://realcomet9527.vercel.app/">MY PERSONAL PORTFOLIO</a>.</h3>
+<h3 align="center">A passionate Web developer from Kazakhstan.<br> Here is <a href="https://realcomet9527.vercel.app/">MY PERSONAL PORTFOLIO</a>.</h3>
 <h3 align="left">Connect with me:</h3>
 <a href="https://discord.com/users/1169222200419680267"><img  width="60" src="https://user-images.githubusercontent.com/86986628/206200626-9999d426-91e8-4050-9430-93c72c21b633.png"></a>
 <a href="https://t.me/RealComet9527"><img  width="60" src="https://user-images.githubusercontent.com/86986628/206201210-59b207ec-a55a-4a37-aef6-6e3b3bddd05d.png"></a>
